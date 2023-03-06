@@ -5,6 +5,7 @@
         static void Main(string[] args)
         {
             Console.WriteLine("Ahoj Adamko");
+
             Console.WriteLine("Martin nás chce zradiť");
             Console.WriteLine("Test test");
         }
